@@ -4,5 +4,10 @@
 
 ## This is an `<h2>` header
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ###### This is an `<h6>` header, which is the smallest
+
 
